@@ -1,0 +1,75 @@
+{data:
+[
+{ten_san:"tên sân 1",
+quanly_san:"trần Văn A",
+vi_tri:{long:123123123,lat:12312312},
+anh:[
+{image:"https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/10438918_701825513293013_4115001171849691792_n.jpg?oh=e3820dbea1c9f730d2f0065f7d2aa7e5&oe=58052787"
+},
+{image:"https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/10438918_701825513293013_4115001171849691792_n.jpg?oh=e3820dbea1c9f730d2f0065f7d2aa7e5&oe=58052787"
+}
+],
+dia_chi:"đường abc",
+so_dth:"0973718xxx",
+
+ds_gia: 
+[
+   {
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"2",
+    gia:200
+   },
+  {
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"7",
+    gia:300
+   },
+
+  {
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"CN",
+    gia:300
+   }
+]
+},
+
+
+{ten_san:"tên sân 2",
+quanly_san:"trần Văn B",
+vi_tri:{long:123123123,lat:12312312},
+anh:[
+{image:"https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/10438918_701825513293013_4115001171849691792_n.jpg?oh=e3820dbea1c9f730d2f0065f7d2aa7e5&oe=58052787"
+},
+{image:"https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/10438918_701825513293013_4115001171849691792_n.jpg?oh=e3820dbea1c9f730d2f0065f7d2aa7e5&oe=58052787"
+}
+],
+dia_chi:"đường abc",
+so_dth:"0973718xxx",
+ds_gia: 
+[
+   {
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"2",
+    gia:200
+   },
+  {
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"7",
+    gia:300
+   },
+
+  {
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"CN",
+    gia:300
+   }
+]
+}
+]
+}
