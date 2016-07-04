@@ -1,6 +1,8 @@
 {data:
 [
-{ten_san:"tên sân 1",
+{
+id:1,
+ten_san:"tên sân 1",
 quanly_san:"trần Văn A",
 vi_tri:{long:123123123,lat:12312312},
 anh:[
@@ -37,7 +39,9 @@ ds_gia:
 },
 
 
-{ten_san:"tên sân 2",
+{
+id:2,
+ten_san:"tên sân 2",
 quanly_san:"trần Văn B",
 vi_tri:{long:123123123,lat:12312312},
 anh:[

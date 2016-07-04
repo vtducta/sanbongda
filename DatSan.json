@@ -1,0 +1,69 @@
+{
+
+data:[
+{id:1,
+order:[
+{
+    time:20160704164100,
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"2",
+    gia:200,
+    so_dth:"0988345xxx",
+    nguoi_dat:"Pham van x"
+},
+{
+    time:20160704164100,
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"2",
+    gia:200,
+    so_dth:"0988345xxx",
+    nguoi_dat:"Pham van x"
+},
+{
+    time:20160704164100,
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"2",
+    gia:200,
+    so_dth:"0988345xxx",
+    nguoi_dat:"Pham van x"
+}
+]
+},
+{
+id:2,
+order:[
+{
+    time:20160704164100,
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"2",
+    gia:200,
+    so_dth:"0988345xxx",
+    nguoi_dat:"Pham van x"
+},
+{
+    time:20160704164100,
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"2",
+    gia:200,
+    so_dth:"0988345xxx",
+    nguoi_dat:"Pham van x"
+},
+{
+    time:20160704164100,
+    tu_luc:2,
+    den_luc:4,
+    thu_tuan:"2",
+    gia:200,
+    so_dth:"0988345xxx",
+    nguoi_dat:"Pham van x"
+}
+]
+}
+
+]
+}
