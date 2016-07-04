@@ -10,7 +10,8 @@ order:[
     thu_tuan:"2",
     gia:200,
     so_dth:"0988345xxx",
-    nguoi_dat:"Pham van x"
+    nguoi_dat:"Pham van x",
+	trang_thai:0
 },
 {
     time:20160704164100,
@@ -19,7 +20,8 @@ order:[
     thu_tuan:"2",
     gia:200,
     so_dth:"0988345xxx",
-    nguoi_dat:"Pham van x"
+    nguoi_dat:"Pham van x",
+	trang_thai:0
 },
 {
     time:20160704164100,
@@ -28,7 +30,8 @@ order:[
     thu_tuan:"2",
     gia:200,
     so_dth:"0988345xxx",
-    nguoi_dat:"Pham van x"
+    nguoi_dat:"Pham van x",
+	trang_thai:0
 }
 ]
 },
@@ -42,7 +45,8 @@ order:[
     thu_tuan:"2",
     gia:200,
     so_dth:"0988345xxx",
-    nguoi_dat:"Pham van x"
+    nguoi_dat:"Pham van x",
+	trang_thai:0
 },
 {
     time:20160704164100,
@@ -51,7 +55,8 @@ order:[
     thu_tuan:"2",
     gia:200,
     so_dth:"0988345xxx",
-    nguoi_dat:"Pham van x"
+    nguoi_dat:"Pham van x",
+	trang_thai:0
 },
 {
     time:20160704164100,
@@ -60,7 +65,8 @@ order:[
     thu_tuan:"2",
     gia:200,
     so_dth:"0988345xxx",
-    nguoi_dat:"Pham van x"
+    nguoi_dat:"Pham van x",
+	trang_thai:0
 }
 ]
 }
